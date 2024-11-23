@@ -60,7 +60,7 @@ A modern and user-friendly desktop application designed to process and combine t
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/getFileContents.git
+   git clone https://github.com/silent-labs/getFileContents.git
    cd getFileContents
    ```
 
