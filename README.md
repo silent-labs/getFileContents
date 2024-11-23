@@ -66,7 +66,7 @@ A modern and user-friendly desktop application designed to process and combine t
 
 2. Install required packages:
    ```bash
-   pip install keyboard pystray pillow setproctitle
+   pip install -r requirments.txt
    ```
 
 3. Run the application:
